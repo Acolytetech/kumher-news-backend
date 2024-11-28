@@ -5,9 +5,9 @@ import {schemaTypes} from './schemaTypes'
 
 export default defineConfig({
   name: 'default',
-  title: 'kumher_NEWS',
+  title: 'kumhernews-backend',
 
-  projectId: '314mt2ok',
+  projectId: '9gicc135',
   dataset: 'production',
 
   plugins: [structureTool(), visionTool()],
