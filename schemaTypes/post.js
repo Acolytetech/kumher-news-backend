@@ -16,10 +16,10 @@ export const post = defineType({
             { title: 'Education', value: 'education' },
             {title:'Accident' , value:'accident'},
             { title: 'Technology', value: 'technology' },
-            { title: 'Health', value: 'health' },
-            { title: 'Sports', value: 'sports' },
-            { title: 'Business', value: 'business' },
-            { title: 'Entertainment', value: 'entertainment' },
+            // { title: 'Health', value: 'health' },
+            // { title: 'Sports', value: 'sports' },
+            // { title: 'Business', value: 'business' },
+            // { title: 'Entertainment', value: 'entertainment' },
 
           ],
       
