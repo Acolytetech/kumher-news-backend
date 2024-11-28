@@ -17,6 +17,7 @@ export const post = defineType({
             { title: 'Technology', value: 'technology' },
             { title: 'Health', value: 'health' },
             { title: 'Sports', value: 'sports' },
+            { title: 'Education', value: 'education' },
             { title: 'Business', value: 'business' },
             { title: 'Entertainment', value: 'entertainment' },
 
